@@ -1,0 +1,3 @@
+https://github.com/shayan-ing/GATE-DA-NOTES
+https://github.com/DS-AI-GATE/dsai-gate
+https://pyqgate.in/gate-da-pyq

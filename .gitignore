@@ -1,0 +1,24 @@
+# Personal and administrative documents stay on this computer.
+/gate documents/
+
+# Large source archive kept locally at the user's request.
+/Study/Resources/Previous year question paper of all gate exams/drive-download-20261031T133442Z-1-001.zip
+
+# Local production scripts, scratch files and browser profiles.
+/tmp/
+/work/
+/.agents/
+/.codex/
+/.aws/
+/.ssh/
+
+# Credentials, environment files and local caches.
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+Desktop.ini
